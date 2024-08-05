@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('https://www.mundodeportivo.com/urbantecno/hero/2023/01/Estas-son-algunas-de-las-mejores-webs-para-consultar-el-clima-en-los-proximos-dias.jpg?width=1200&aspect_ratio=16:9');
+  }
+  
+  .contenedor {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 21px;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: transparent;
+  }
+  
+  h1 {
+    
+    color: white;
+  }
+  
+  input[type="text"] {
+    padding: 10px;
+    font-size: 16px;
+    width: 70%;
+  }
+
+  .input .placeholder{
+    color: white;
+  }
+  
+  button {
+    padding: 1rem 2rem;
+    font-size: 1rem;
+    color: #fff;
+    background-color: blue;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  
+  #datosClima {
+    margin-top: 20px;
+    font-size: 18px;
+  }
+  
